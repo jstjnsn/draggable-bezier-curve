@@ -1,4 +1,5 @@
 step*
-*.md
 *.gif
 *.png
+*.md
+!README.md
